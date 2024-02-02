@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.x3n3nnut.js";import{c as e,o as t,a as r}from"./entry.GE46RM9P.js";const s={},c=r("h1",null,"You forgot password, dafuq????",-1),a=[c];function n(_,f){return t(),e("div",null,a)}const i=o(s,[["render",n]]);export{i as default};
